@@ -1,0 +1,53 @@
+body,
+html {
+  background: url(../img/background.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #fff;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.trans {
+  background: transparent !important;
+  height:60px;
+}
+
+.btn-groupss {
+  margin-right:50px;
+}
+
+.porple {
+  background:rgba(81,65,135,0.4) !important;
+  color:#fff !important;
+  border-radius:2px !important;
+  padding:5px;
+  width:140px;
+  height:auto;
+}
+
+.porple:hover {
+  background:rgba(255,255,255,0.8) !important;
+  color:#514187 !important;
+  border-radius:2px !important;
+}
+
+.smalltext {
+  background: rgba(81,65,135,0.4);
+  width:5rem;
+  margin:auto;
+  margin-bottom:15px;
+  margin-top:-30px;
+  border-radius:2px;
+  padding:5px;
+}
+
+.container img {
+  margin-top:30px;
+}
+
+.trans a {
+  color:#fff;
+  padding-left:20px;
+}
